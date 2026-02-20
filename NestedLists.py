@@ -59,3 +59,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+------------------------------------------------------------------------
+
+set comprehension can be used ; sort and get [1] to get the min no need to removen and all
